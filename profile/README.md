@@ -23,7 +23,7 @@ A diferencia de los esquemas clásicos — que validan únicamente si un código
 
 **Ahiézer Rada** — Owner & CTO
 
-- ✉️ Correo: ahidroid.exe@gmail.com
+- ✉️ Correo: arada@society-exe.site
 - 📞 Teléfono: +57 322 321 3752
 - 🐙 GitHub: [@ahidroidev](https://github.com/ahidroidev)
 - 🌐 Web: [society-exe.site](https://society-exe.site)
